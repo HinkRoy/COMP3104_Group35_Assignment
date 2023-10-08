@@ -1,3 +1,0 @@
-This is an online course
-DEVOPS
-Hello
