@@ -1,1 +1,2 @@
 George Brown College's DevOps course prepares students for careers in software development and IT operations. It emphasizes automation, CI/CD pipelines, and hands-on labs for practical experience. Collaboration between teams is a key focus, along with mastering essential tools like Docker, Kubernetes, and Jenkins. Graduates are well-equipped for real-world challenges, making this program a pathway to success in the dynamic tech industry.
+
